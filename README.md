@@ -7,3 +7,5 @@
 - **[AudioCNN Segmentation](https://github.com/madakkuni/ml-audio-cnn-segmentation)**  is an end-to-end deep learning pipeline that performs audio segmentation and classification using a Convolutional Neural Network (CNN), and leverages ONNX for efficient inference to clean call recordings.
 
 - **[Smart Doc Generator](https://github.com/madakkuni/ai-smart-doc-generator)** automatically generates enterprise-grade project documentation by analyzing source code, folder structure, and project logic.
+
+-"[KB Assistant](https://github.com/madakkuni/ai-kb-assistant-rag/tree/main)" Production-Grade Enterprise Knowledge Base Assistant powered by Hybrid RAG and LangGraph for accurate, citation-backed AI responses.
