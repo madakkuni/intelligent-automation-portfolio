@@ -8,4 +8,4 @@
 
 - **[Smart Doc Generator](https://github.com/madakkuni/ai-smart-doc-generator)** automatically generates enterprise-grade project documentation by analyzing source code, folder structure, and project logic.
 
--"[KB Assistant](https://github.com/madakkuni/ai-kb-assistant-rag/tree/main)" Production-Grade Enterprise Knowledge Base Assistant powered by Hybrid RAG and LangGraph for accurate, citation-backed AI responses.
+- **[KB Assistant](https://github.com/madakkuni/ai-kb-assistant-rag/tree/main)** Production-Grade Enterprise Knowledge Base Assistant powered by Hybrid RAG and LangGraph for accurate, citation-backed AI responses.
