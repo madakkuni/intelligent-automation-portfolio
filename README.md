@@ -11,3 +11,5 @@
 - **[KB Assistant](https://github.com/madakkuni/ai-kb-assistant-rag/tree/main)** Production-Grade Enterprise Knowledge Base Assistant powered by Hybrid RAG and LangGraph for accurate, citation-backed AI responses.
 
 - **[Self Healing Engine](https://github.com/madakkuni/ai-self-healing-engine)** automatically detects issues from logs, performs Root Cause Analysis (RCA) using GenAI, applies auto-remediation, validates recovery, and auto-closes incidents — with fallback escalation to Service Desk when automation fails.
+
+- **[AI-Powered E-commerce Image Generation Workflow](https://github.com/madakkuni/ai-ecommerce-image-workflow/blob/main/README.md)** an end-to-end workflow built with n8n, integrating Google Vertex AI (Gemini models) and image generation APIs to automate fashion product photography.
